@@ -18,7 +18,14 @@ Let get started!
   * **Vince Linse** (ecnivtwelve) - Designer
   * **Marton Lederer** (MartonDev) - Website Designer
 
-
+# Evolution X Related Links
+* [Our Website](https://evolution-x.org)
+* [Our Discord](https://evolution-x.org/discord)
+* [Our Telegram](https://evolution-x.org/telegram)
+* [Our Youtube](https://evolution-x.org/youtube)
+* [Our Github](https://github.com/evolution-x)
+* [Our Support Mail](mailto:support@evolution-x.org)
+* [Our DMCA Mail](mailto:dmca@evolution-x.org)
 
 ### Wiki Information
 
