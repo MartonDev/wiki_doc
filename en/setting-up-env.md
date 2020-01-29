@@ -1,11 +1,18 @@
 This guide is for Linux Users targetting Ubuntu 18.04 LTS users. This guide does not tend to work with WSL (both V1 and V2), please use real "Linux Environment" or use a "Virtual Machine" or get yourself a server!
 
+**Don't wanna go thru hassles? Introduce [akhilnarang's script](https://github.com/akhilnarang/scripts) repository**
+```bash
+git clone https://github.com/akhilnarang/scripts; cd scripts; sudo bash setup/android_build_env.sh
+```
+after you've done these you can skip to [Step 3](#h-3-make-a-folder-and-initialize-repo)
+
+---------------------------------------
 
 ### 1: Setting up a build environment! ###
 
 ```bash
 The Android build is most widely built on Ubuntu LTS (18.04 as of now when this note is made)! These have the pre-built tools to compile the ROM! 
-A 64 bit system arch is a compulsary requirement to build Android Versions from Gingerbread (2.3.x) and higher.
+A 64 bit system arch and cpu is a compulsary requirement to build Android Versions from Gingerbread (2.3.x) and higher.
 ```
 
 ### 2: Installing required packages ###
@@ -25,7 +32,7 @@ A 64-bit version of Ubuntu (18.04 is recommended as of now because of LTS).
 ```bash
 -  mkdir evo && cd evo
 
--  repo init -u https://github.com /Evolution-X/manifest -b ten
+-  repo init -u https://github.com/Evolution-X/manifest -b ten
 
 -  repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 ```
