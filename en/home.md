@@ -13,7 +13,7 @@ Let get started!
 * **Current Team Status:**
   * **Jose Antonio Huab** (Stallix, Joey Huab) - Founder
   * **Akito Mizukito** (RealAkito) - Project Manager, Haruka LLC. Founder
-  * **Anierin Nyrin Bliss** (AnierinB) - Project Specialist
+  * **Anierin Talfryn Bliss** (AnierinB) - Project Specialist
   * **Shen Wenlin** (hugwalk) - Head Designer - *Resigned on December 2019*
   * **Vince Linse** (ecnivtwelve) - Designer
   * **Marton Lederer** (MartonDev) - Website Designer
