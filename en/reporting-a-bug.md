@@ -12,7 +12,8 @@ For more info, see the [example bug report format](#example-bug-report-format)
 You can use ADB to record a logcat by using the command `adb logcat -d`. <br>
 Alternatively you can use the [syslog](https://play.google.com/store/apps/details?id=com.tortel.syslog&hl=en_US) app.
 
-## Why
+## Why do I need to keep the bug reporting rules?
+It is way easier for the developer and for other users as well, to see your bug report organized and not just a complaint. This way the developer will be able to implement a solution to the bug you found and other users won't re-report the bug.
 
 ## Example bug report format
 Bug description: `<write the description of the bug here>` <br>
