@@ -16,7 +16,7 @@ Let get started!
   * **Anierin Talfryn Bliss** (AnierinB) - Project Specialist
   * **Shen Wenlin** (hugwalk) - Head Designer - *Resigned on December 2019*
   * **Vince Linse** (ecnivtwelve) - Designer
-  * **Marton Lederer** (MartonDev) - Website Designer
+  * **Marton Lederer** (MartonDev) - Website Developer
 
 # Evolution X Related Links
 * [Our Website](https://evolution-x.org)
