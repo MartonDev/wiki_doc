@@ -12,6 +12,8 @@ You can download the ROM zip from the [official site](https://evolution-x.org/de
 ## Selecting the correct vendor
 Check the XDA thread of your device to find the required vendor or firmware for the ROM and download it.
 
+> *Do not flash GApps, we include them by default in the ROM*
+
 ## Flashing the ROM
 After having downloaded the correct ROM build and vendor/firmware zip file, we can proceed with the flashing process. Boot your device into recovery mode, and wipe data, cache and system using your custom recovery. <br>
 Flash the required vendor/firmware and the downloaded ROM build. Reboot to system and enjoy the ROM.
