@@ -4,19 +4,19 @@
 
 This wiki is for **Project Evolution X**.
 
-Let get started!
+Let's get started!
 
 **Here's our basic information you might not know of.**
 
 * **Project Evolution X** is founded on *3rd March 2019*
 * **Founded by** *Jose Antonio Huab*
 * **Current Team Status:**
-  * **Jose Antonio Huab** (Stallix, Joey Huab) - Founder
+  * **Jose Antonio Huab** (Stallix, Joey Huab) - Founder, Lead Developer
   * **Akito Mizukito** (RealAkito) - Project Manager, Haruka LLC. Founder
   * **Anierin Talfryn Bliss** (AnierinB) - Project Specialist
   * **Shen Wenlin** (hugwalk) - Head Designer - *Resigned on December 2019*
   * **Vince Linse** (ecnivtwelve) - Designer
-  * **Marton Lederer** (MartonDev) - Website Designer
+  * **Marton Lederer** (MartonDev) - Website Developer
 
 # Evolution X Related Links
 * [Our Website](https://evolution-x.org)
